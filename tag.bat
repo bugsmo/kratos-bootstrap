@@ -1,31 +1,31 @@
-git tag v0.0.1
+git tag v1.0.0
 
-git tag api/v0.0.1 --force
+git tag api/v1.0.0
 
-git tag cache/redis/v0.0.1 --force
+git tag cache/redis/v1.0.0
 
-git tag oss/minio/v0.0.1 --force
+git tag oss/minio/v1.0.0
 
-git tag config/apollo/v0.0.1 --force
-git tag config/consul/v0.0.1 --force
-git tag config/etcd/v0.0.1 --force
-git tag config/kubernetes/v0.0.1 --force
-git tag config/nacos/v0.0.1 --force
-git tag config/polaris/v0.0.1 --force
+git tag config/apollo/v1.0.0
+git tag config/consul/v1.0.0
+git tag config/etcd/v1.0.0
+git tag config/kubernetes/v1.0.0
+git tag config/nacos/v1.0.0
+git tag config/polaris/v1.0.0
 
-git tag logger/aliyun/v0.0.1 --force
-git tag logger/fluent/v0.0.1 --force
-git tag logger/logrus/v0.0.1 --force
-git tag logger/tencent/v0.0.1 --force
-git tag logger/zap/v0.0.1 --force
+git tag logger/aliyun/v1.0.0
+git tag logger/fluent/v1.0.0
+git tag logger/logrus/v1.0.0
+git tag logger/tencent/v1.0.0
+git tag logger/zap/v1.0.0
 
-git tag registry/consul/v0.0.1 --force
-git tag registry/etcd/v0.0.1 --force
-git tag registry/eureka/v0.0.1 --force
-git tag registry/kubernetes/v0.0.1 --force
-git tag registry/nacos/v0.0.1 --force
-git tag registry/polaris/v0.0.1 --force
-git tag registry/servicecomb/v0.0.1 --force
-git tag registry/zookeeper/v0.0.1 --force
+git tag registry/consul/v1.0.0
+git tag registry/etcd/v1.0.0
+git tag registry/eureka/v1.0.0
+git tag registry/kubernetes/v1.0.0
+git tag registry/nacos/v1.0.0
+git tag registry/polaris/v1.0.0
+git tag registry/servicecomb/v1.0.0
+git tag registry/zookeeper/v1.0.0
 
 git push origin --tags
